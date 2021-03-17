@@ -1,5 +1,5 @@
 # SecurityTraps
-The 1st objective: Break this horrible thing. (https://www.securitytraps.pl/)         
+The 1st objective: beat this one (https://www.securitytraps.pl/)         
 
 https://www.securitytraps.pl/?d=about1656      
 User Info     
